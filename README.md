@@ -11,3 +11,4 @@ This is your repo for week 1
   1. [YouTube Video on Github](https://youtu.be/BKr8lbx3uFY)
   1. [Github markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
   1. [Git Book](https://git-scm.com/book/en/v2)
+  1. [MGIS Webpage](https://cla.umn.edu/mgis)
